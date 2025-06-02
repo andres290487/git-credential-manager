@@ -1,4 +1,4 @@
-# Enterprise configuration defaults
+b62021fdd7f0e28bf851580e0afd834976bd79d1# Enterprise configuration defaults
 
 Git Credential Manager (GCM) can be configured using multiple
 different mechanisms. In order of preference, those mechanisms are:
